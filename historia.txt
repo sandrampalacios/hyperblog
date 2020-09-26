@@ -4,3 +4,8 @@ Sandra Palacios tiene 24 años y nacio en El Salvador,
 San Salvador.
 
 Hoy hablaremos de su vida y obra maestra.
+<<<<<<< HEAD
+=======
+
+Mañana hablaremos de sus estudios.
+>>>>>>> cabecera
